@@ -68,4 +68,3 @@ Average Marks| Grade
 70 - 79| C
 60 - 69| D
 Below 60| F
-Created by Shri as a beginner Python project to practice programming fundamentals and data management.# Student-Managment-System
